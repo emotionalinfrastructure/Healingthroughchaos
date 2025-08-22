@@ -1,0 +1,1 @@
+# Healing Through Chaos (Clean Build)\n\nQuickstart:\n```bash\nnpm install\nnpm run dev\n```\n\nDeploy to Vercel: push to GitHub, import repo, set Framework=Next.js.\n
